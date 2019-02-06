@@ -9,3 +9,13 @@ C:\Users\Mezeus\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\
 C:\Users\Mezeus\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.exe
 C:\Users\Mezeus\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.pdb
 C:\Users\Mezeus\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\bin\Debug\StajirovkaZadanie.exe.config
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.exe
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.pdb
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\bin\Debug\StajirovkaZadanie.exe
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\bin\Debug\StajirovkaZadanie.pdb
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.Form1.resources
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.Properties.Resources.resources
+C:\Users\Пользователь\Documents\GitHub\Stajirovka\StajirovkaZadanie\StajirovkaZadanie\obj\Debug\StajirovkaZadanie.csproj.GenerateResource.Cache
